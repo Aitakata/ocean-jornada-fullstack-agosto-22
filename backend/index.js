@@ -1,8 +1,8 @@
 const express = require("express");
 const { MongoClient } = require("mongodb");
 
-const url = "mongodb://localhost:27017";
-// const url = "mongodb+srv://admin:LdQHrR3iAM9u4Mtw@cluster0.ih1f4.mongodb.net";
+// const url = "mongodb://localhost:27017";
+const url = "mongodb+srv://admin:yHC6JAY6pl9zAvdh@cluster0.mpzug9a.mongodb.net";
 const dbName = "jornada-fullstack-agosto-22";
 
 // Declaração da função main()
